@@ -23,10 +23,10 @@ Task 2
 
 ##### Creating, adding remote repositories
 
-git init sql                                                        Create separate repository for portfolio item   
-git remote add sql https://github.com/rzheutskaya-anna/sql.git      Declarie repository remotely   
-README.md edited manually                                           Add links to your repositories to the README.md file  
-git commit -m "commited change description"                         Push changes to remote repository  
+git init sql - Create separate repository for portfolio item   
+git remote add sql https://github.com/rzheutskaya-anna/sql.git - Declarie repository remotely   
+README.md edited manually - Add links to your repositories to the README.md file  
+git commit -m "commited change description" - Push changes to remote repository  
 git push                                                     
 
 
